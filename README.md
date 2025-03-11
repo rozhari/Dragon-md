@@ -44,7 +44,7 @@
 ```
 1. Install nodejs, git, ffmpeg
 2. npm i -g yarn pm2
-3. git clone https://github.com/souravkl11/raganork-md && cd raganork-md
+3. git clone https://github.com/rozhari/Dragon-md && cd raganork-md
 4. yarn install --ignore-engines --network-concurrency 1
 5. vi config.env
 6. Enter your session there in format 'SESSION=your_session_here'
