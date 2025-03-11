@@ -71,7 +71,7 @@ Module({
 ┃${star}│ _*Server*_ : ${__dirname.startsWith('/skl')?"Heroku":"Private (VPS)"}
 ┃${star}│ _*Available RAM*_ : ${used} of ${total}
 ┃${star}│ _*Version*_ : ${config.VERSION}
-┃${star}│
+┃${star}│ _*Main owner*_ :$ BL DRAGON BY SOURAVE
 ┃${star}│
 ┃${star}│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃${star}│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
